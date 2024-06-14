@@ -1,0 +1,19 @@
+/* Add styles here */
+head {
+    color: #862198; 
+    border: 1px solid rgba(32, 123, 214, 0.579)
+
+  }
+  
+  body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #cbcbfb;
+  }
+
+
+  hi {
+    color: rgba(32, 123, 214, 0.579);
+    font-weight: 500;
+    font-style: italic;
+  } 
